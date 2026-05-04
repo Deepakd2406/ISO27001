@@ -1,7 +1,7 @@
 
 # 🔐 ISMS Implementation Project (ISO/IEC 27001:2022)
 
-  📌 ### Project Overview
+### 📌 Project Overview
 This project demonstrates a complete implementation of an Information Security Management System (ISMS) based on the ISO/IEC 27001:2022 standard.
 The objective of this project is to simulate a real-world organizational environment and showcase how information security is managed through structured policies, risk management, and compliance practices.
 This project is created for learning, practice, and interview demonstration purposes.
