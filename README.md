@@ -1,12 +1,12 @@
 
 # 🔐 ISMS Implementation Project (ISO/IEC 27001:2022)
 
-📌 Project Overview
+  📌 ### Project Overview
 This project demonstrates a complete implementation of an Information Security Management System (ISMS) based on the ISO/IEC 27001:2022 standard.
 The objective of this project is to simulate a real-world organizational environment and showcase how information security is managed through structured policies, risk management, and compliance practices.
 This project is created for learning, practice, and interview demonstration purposes.
 
-🏢 Organization Profile
+### 🏢 Organization Profile
 Organization Name: SecureTrust Bank Ltd (Fictional)
 Industry: Digital Banking & Financial Services
 Location: India
@@ -59,7 +59,7 @@ Includes:
 * Business Continuity Plan (BCP)
 * Asset Management Policy
 
-⚙️ ISMS Implementation Approach
+### ⚙️ ISMS Implementation Approach
 This project follows the PDCA Cycle (Plan-Do-Check-Act):
 
 🔹 Plan
@@ -76,7 +76,7 @@ This project follows the PDCA Cycle (Plan-Do-Check-Act):
 -Continuous improvement
 -Corrective actions
 
-🔍 Key Concepts Covered
+### 🔍 Key Concepts Covered
 * ISO/IEC 27001 Framework
 * Risk Management Methodology
 * Information Security Policies
@@ -90,7 +90,7 @@ Through this project, I have gained:
 * Ability to create ISO 27001 compliant policies
 * Knowledge of real-world security practices
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 This project is created for educational and demonstration purposes only.
 The organization name used is fictional and does not represent any real entity.
 
