@@ -22,7 +22,7 @@ Services:
 * Establish security policies and procedures
 * Demonstrate real-world GRC practices
 
-### 📂 Project Structure
+### 📂 ISMS Structure
         ISO 27001 ISMS
         │
         ├── Clause 4: Context of Organization
