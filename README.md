@@ -35,7 +35,6 @@ Services:
                 │   ├── Risk Assessment Methodology (6.1.2)
                 │   ├── Risk Assessment Results / Risk Register (6.1.2)
                 │   ├── Risk Treatment Process (6.1.3)
-                │   ├── Risk Treatment Plan (6.1.3)
                 │   ├── Statement of Applicability (SoA) (6.1.3)
                 │   └── Information Security Objectives (6.2)
                 │
