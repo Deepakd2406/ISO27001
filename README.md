@@ -15,15 +15,45 @@ Services:
 * Mobile Banking
 * Cloud-based Financial Services
 
-🎯 Project Objectives
+### 🎯 Project Objectives
 * Implement ISMS aligned with ISO/IEC 27001:2022
 * Protect Confidentiality, Integrity, and Availability (CIA) of information
 * Identify and manage risks effectively
 * Establish security policies and procedures
 * Demonstrate real-world GRC practices
 
-📂 Project Structure
-
+### 📂 Project Structure
+        ISO 27001 ISMS
+        │
+        ├── Clause 4: Context of Organization
+        │   └── ISMS Scope Document (4.3)
+        │
+        ├── Clause 5: Leadership
+        │   └── Information Security Policy (5.2)
+        │
+        ├── Clause 6: Planning
+        │   ├── Risk Assessment Methodology (6.1.2)
+        │   ├── Risk Assessment Results / Risk Register (6.1.2)
+        │   ├── Risk Treatment Process (6.1.3)
+        │   ├── Statement of Applicability (SoA) (6.1.3)
+        │   └── Information Security Objectives (6.2)
+        │
+        ├── Clause 7: Support
+        │   ├── Competence Evidence (7.2)
+        │   └── Documented Information Control (7.5)
+        │
+        ├── Clause 8: Operation
+        │   └── Evidence of Risk Assessment & Treatment Execution (8.1)
+        │
+        ├── Clause 9: Performance Evaluation
+        │   ├── Monitoring & Measurement Results (9.1)
+        │   ├── Internal Audit Program & Results (9.2)
+        │   └── Management Review Results (9.3)
+        │
+        └── Clause 10: Improvement
+            ├── Nonconformity & Corrective Action Records (10.1)
+            └── Continual Improvement Evidence (10.2)
+            
 1. ISMS Scope
 Defines:
 * Organizational boundaries
